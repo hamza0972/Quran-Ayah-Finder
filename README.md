@@ -1,5 +1,4 @@
 # 📖 Quran Ayat Finder
-A Gradio web application to search any Quran ayat by its global ayat number using the AlQuran Cloud API.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" />
@@ -69,7 +68,7 @@ screenshots/output.png
 
 Coming Soon...
 
-(Hugging Face Space Link)
+[(Hugging Face Space Link)](https://hamza0972-quran-ayat-finder.hf.space)
 
 ---
 
