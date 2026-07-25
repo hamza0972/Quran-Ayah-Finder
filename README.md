@@ -70,7 +70,7 @@ screenshots/output.png
 
 # 🚀 Live Demo
 
-[(Try it)](https://hamza0972-quran-ayat-finder.hf.space)
+[Try it](https://hamza0972-quran-ayat-finder.hf.space)
 
 ---
 
