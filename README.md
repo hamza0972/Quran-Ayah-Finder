@@ -46,7 +46,9 @@ A simple yet elegant <b>Gradio Web Application</b> that allows users to search a
 
 ## 🏠 Home Page
 
-> Add your screenshot here
+<p align="center">
+  <img src="screenshots/Home Page.png" width="900">
+</p>
 
 ```
 screenshots/home.png
@@ -56,7 +58,9 @@ screenshots/home.png
 
 ## 📄 Search Result
 
-> Add your screenshot here
+<p align="center">
+  <img src="screenshots/result.png" width="900">
+</p>
 
 ```
 screenshots/output.png
@@ -66,7 +70,7 @@ screenshots/output.png
 
 # 🚀 Live Demo
 
-[(Click me)](https://hamza0972-quran-ayat-finder.hf.space)
+[(Try it)](https://hamza0972-quran-ayat-finder.hf.space)
 
 ---
 
